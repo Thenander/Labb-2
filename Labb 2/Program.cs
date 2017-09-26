@@ -17,6 +17,7 @@ namespace Fast_Figures
             return digits;
         }
 
+        // Metod för Maingame
         private static void PlayGame(int res)
         {
             Console.WriteLine(res);
