@@ -45,7 +45,7 @@ namespace Fast_Figures
             // Level 1
             for (int i = 0; i < 3; i++)
             {
-                rndNumberDigits = RandomNumber(rndNo[10], rndNo[11]);
+                rndNumberDigits = RandomNumber(rndNo[0], rndNo[1]);
                 PlayGame(rndNumberDigits);
             }
 
